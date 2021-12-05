@@ -74,6 +74,9 @@ Of course, no one template will serve all projects since your needs may be diffe
 - [x] Add "Download Text"
 - [x] Add "Download Markdown"
 - [x] Add "Preview as Markdown"
+  - [ ] Add video preview support
+  - [ ] Add optimal way for screenshot section
+  - [ ] Add validation notices
 - [ ] Add "Preview as WordPress"
 
 See the [open issues](https://github.com/sh-sabbir/wpread.me/issues) for a full list of proposed features (and known issues).

@@ -39,7 +39,7 @@
     Only Live WordPress Readme file editing tool!
     <br />
     <br />
-    <a href="http://www.wpread.me/">Check the tool</a>
+    <a href="https://www.wpread.me/">Check the tool</a>
     ·
     <a href="https://github.com/sh-sabbir/wpread.me/issues">Report Bug</a>
     ·
@@ -52,7 +52,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![WPRead.me Banner][product-screenshot]](https://example.com)
+[![WPRead.me Banner][product-screenshot]](https://www.wpread.me/)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
